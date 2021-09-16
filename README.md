@@ -11,4 +11,11 @@
    ![image](https://user-images.githubusercontent.com/83109335/133592088-f40461d0-6b6a-42ba-ae99-f254a5a9f77b.png)  
    
    ![image](https://user-images.githubusercontent.com/83109335/133592245-0ac2f619-1e9d-425a-8ffe-6f989013c915.png)
+# Activity-3
+# IN action
+ ![ac3 on](https://user-images.githubusercontent.com/83109335/133661728-ef7dac74-0976-4223-a29b-7ad8a7f43e51.png)
+![Ac3 off](https://user-images.githubusercontent.com/83109335/133661833-30551146-47c9-410b-b133-b738878a1b6c.png)
+![AC3 RE](https://user-images.githubusercontent.com/83109335/133661848-4b269e8b-0298-4964-8268-6aa02b9fbe0b.png)
+
+  
 
