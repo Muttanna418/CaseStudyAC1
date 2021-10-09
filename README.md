@@ -19,5 +19,5 @@
 
 ![code quelity]( https://www.code-inspector.com/project/28927/score/svg)
 ![code gread](https://www.code-inspector.com/project/28927/status/svg)
-[![CI](https://github.com/Muttanna418/Emb_C_CaseStudyAC1/actions/workflows/main.yml/badge.svg)](https://github.com/Muttanna418/Emb_C_CaseStudyAC1/actions/workflows/main.yml))
+[![CI](https://github.com/Muttanna418/Emb_C_CaseStudyAC1/actions/workflows/main.yml/badge.svg)](https://github.com/Muttanna418/Emb_C_CaseStudyAC1/actions/workflows/main.yml)
 
